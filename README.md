@@ -3,7 +3,7 @@ The app won't work immediately after downloading. It's been cleared of connectio
 1. Create a Firebase project.
 2. Connect the app to the Firebase project.
 3. Add the SHA-1 key from Android Studio to the Firebase project.
-4. Create a Realtime Database.https://github.com/Johnny-FH/Healthy_man_debug/blob/main/README.md
+4. Create a Realtime Database.
 5. Enable Google Authentication in Firebase.
 6. Download the Google Service file and upload it to Android Studio.
 7. Replace:
