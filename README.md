@@ -9,6 +9,7 @@ The app won't work immediately after downloading. It's been cleared of connectio
 7. Download the Google Service file and upload it to Android Studio.
 8. Replace:
 "default_web_client_id xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" in strings.xml with your client ID from Google Authentication.
+9. Replace map_key with your own from Google Cloud Console -> Map API.
 
 The app will start working at this point. Ads will work in testmod unless you create your own project in Google AdMob and replace test id's:
 "banner_ad_unit_id ca-app-pub-3940256099942544/9214589741" and 
